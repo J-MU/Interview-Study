@@ -38,7 +38,7 @@ root
 |------|---|
 |정민욱|[@J-MU](https://github.com/J-MU)|
 |박이현|[@hyn.xp](https://github.com/hynxp)|
-|박용훈|[@asqwklop12](https://github.com/asqwklop12)|
+|김예지|[@isExample](https://github.com/isExample)|
 
 # 스터디 주제
 ## ☕ JAVA
