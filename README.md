@@ -37,7 +37,7 @@ root
 |이름|Github|
 |------|---|
 |정민욱|[@J-MU](https://github.com/J-MU)|
-|박이현|[@hyn.xp](https://github.com/hynxp)|
+|김민상|[@minsang-alt](https://github.com/minsang-alt)|
 |김예지|[@isExample](https://github.com/isExample)|
 
 # 스터디 주제
