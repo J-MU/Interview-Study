@@ -34,11 +34,12 @@ root
 - oo주차 보충공부.md : 모의 면접 자리에서 답변하지 못한 질문에 대해 공부하여 기록된 문서이다.
 
 # 👨🏻‍💻스터디원
-|이름|Github|
-|------|---|
-|정민욱|[@J-MU](https://github.com/J-MU)|
-|김민상|[@minsang-alt](https://github.com/minsang-alt)|
-|김예지|[@isExample](https://github.com/isExample)|
+|   |   |   |
+|---|---|---|
+| <div align="center"><a href="https://github.com/J-MU"><img src="https://avatars.githubusercontent.com/u/46997074?v=4" alt="정민욱" style="border-radius: 50%; width: 150px; height: 150px;" /></a></div> | <div align="center"><a href="https://github.com/minsang-alt"><img src="https://avatars.githubusercontent.com/u/82764703?v=4" alt="김민상" style="border-radius: 50%; width: 150px; height: 150px;" /></a></div> | <div align="center"><a href="https://github.com/isExample"><img src="https://avatars.githubusercontent.com/u/93423346?v=4" alt="김예지" style="border-radius: 50%; width: 150px; height: 150px;" /></a></div> |
+| <div align="center">[@J-MU](https://github.com/J-MU)</div> | <div align="center">[@minsang-alt](https://github.com/minsang-alt)</div> | <div align="center">[@isExample](https://github.com/isExample)</div> |
+
+
 
 # 모의 면접 질문 모음
 ## ☕ JAVA
